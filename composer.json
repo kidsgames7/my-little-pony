@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "kidsgames7/my-little-pony",
+    "description": "My little pony games online Framework.",
+    "keywords": ["framework", "my little pony games"],
     "license": "MIT",
     "type": "project",
     "require": {
